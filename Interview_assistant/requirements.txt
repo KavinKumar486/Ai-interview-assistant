@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+scikit-learn
+pandas
+time
+re
